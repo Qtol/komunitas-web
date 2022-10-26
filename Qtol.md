@@ -3,3 +3,7 @@
 perkenalkan nama saya iksya syariifal maqom
 saya sekarang lagi duduk santai
 dan juga sedang lapar
+
+#Belajar Tag HTML tentang Tabel
+<table>
+</table>
