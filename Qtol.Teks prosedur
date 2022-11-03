@@ -1,0 +1,39 @@
+<html>
+    <head>
+        <title>Belajar html web(title)</title>
+    </head>
+    <body>
+        <h1>Cara membuat teh</h1>
+        <p>Hai kali ini saya mencoba membuat tutorial cara membuat teh dengan baik dan benar </p>
+        <body>
+            <ul>
+                <li>Alat dan bahan</li>
+            </ul>
+          <ol>
+           <li>Gelas</li>
+            <li>Panci</li>
+            <li>Teh</li>
+            <li>Air</li>
+            <li>Gula</li>
+            <li>Sendok</li>
+            <li>Kompor</li>
+            <li>Gas</li>
+          </ol>  
+          <ul>
+            <li>Langkah-langkah</li>
+          </ul>
+          <ol>
+            <li>Pertama-tama pasangkan gas ke kompor gas</li>
+            <li>Setelah gas terpasang lalu cek apakah kompor sudah bisa dipakai</li>
+            <li>Jika kompor bisa digunakan letakkan panci ke atas kompor</li>
+            <li>Lalu tuangkan air ke dalam panci dan hidupkan kompornya</li>
+            <li>Sambil menunggu air mendidih siap kan gelas dengan sendok</li>
+            <li>Lalu ambil gula sebanyak 2 SDM dan letakkan teh di gelas</li>
+            <li>Setelah air mendidih tuang kan ke dalam gelas yang sudah berisi gula dan teh</li>
+            <li>Lalu aduk sampai gula tercampur dengan rata dan warna air sudah berubah kecoklatan</li>
+            <li>Setelah air berubah kecoklatan buang ampas teh dan teh siap di sajikan</li>
+          </ol>
+        </body>
+    </body>
+
+</html>
